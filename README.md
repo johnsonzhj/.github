@@ -7,11 +7,11 @@
 
 ### Our Mission | 我们的使命
 
-**[EN]** We develop next-generation research tools for scalable behavioral science. Our focus is on transforming high-precision cognitive measurements into accessible, low-cost technologies.
+**[EN]** We are dedicated to advancing the frontiers of decision science by integrating computational modeling with large-scale behavioral data. Our lab develops next-generation research tools designed to make high-precision cognitive measurement more accessible and scalable.
 
-**[CN]** 我们致力于为可扩展的行为科学开发下一代研究工具。我们的核心目标是将高精度的认知测量技术转化为更易普及、更低成本的实用技术。
+**[CN]** 我们致力于通过将计算模型与大规模行为数据相结合，推动决策科学的前沿研究。实验室专注于开发下一代研究工具，旨在使高精度的认知测量技术变得更加易于获取且具备可扩展性。
 
 ---
 
-*Stay tuned for our upcoming publications and open-source toolkits.*
-*敬请期待我们即将发布的论文与开源工具包。*
+*Advancing the science of choice through computational innovation.*
+*通过计算创新推动选择科学的发展。*
