@@ -13,5 +13,5 @@
 
 ---
 
-*Advancing the science of choice through computational innovation.*
-*通过计算创新推动选择科学的发展。*
+*Advancing the science of choice and decision making through computational innovation.*
+*通过计算创新推动决策科学的发展。*
