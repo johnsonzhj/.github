@@ -13,5 +13,11 @@
 
 ---
 
+### Keywords | 关键词
+
+`Neuroeconomics` · `Decision Neuroscience` · `Decision Processes` · `Behavioral Decision Making` · `Game Theory` · `Eye-tracking` · `Mouse-tracking` · `EEG` · `fMRI`
+
+---
+
 *Advancing the science of choice and decision making through computational innovation.*
 *通过计算创新推动决策科学的发展。*
