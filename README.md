@@ -15,7 +15,7 @@
 
 ### Keywords | 关键词
 
-`Neuroeconomics` · `Decision Neuroscience` · `Decision Processes` · `Behavioral Decision Making` · `Game Theory` · `Eye-tracking` · `Mouse-tracking` · `EEG` · `fMRI`
+`Neuroeconomics | 神经经济学` · `Decision Neuroscience | 决策神经科学` · `Decision Processes | 决策过程` · `Behavioral Decision Making | 行为决策` · `Behavioral Game Theory | 行为博弈论` · `Response Times | 反应时间` · `Eye-tracking | 眼动追踪` · `Mouse-tracking | 鼠标轨迹` · `EEG | 脑电` · `fMRI | 功能核磁共振`
 
 ---
 
