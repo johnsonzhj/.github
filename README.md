@@ -7,7 +7,7 @@
 
 ### Our Mission | 我们的使命
 
-**[EN]** We are dedicated to advancing the frontiers of decision science by integrating computational modeling with large-scale behavioral data. Our lab develops next-generation research tools designed to make high-precision cognitive measurement more accessible and scalable.
+**[EN]** We are dedicated to advancing the frontiers of decision science by integrating computational modeling with large-scale behavioral and **multi-modal data** (including response times, eye-tracking, mouse-tracking, EEG, and fMRI). Our lab develops next-generation research tools designed to make high-precision cognitive measurement more accessible and scalable.
 
 **[CN]** 我们致力于通过将计算建模与大规模行为与多模态数据（反应时间、眼动、鼠标轨迹、脑电与功能核磁共振）相结合，推动决策科学的前沿研究。实验室专注于开发下一代研究工具，旨在使高精度的认知测量技术变得更加易于获取且具备可扩展性。
 
